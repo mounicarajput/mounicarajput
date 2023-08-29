@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/mounicarajput" target="blank"><img src="https://img.shields.io/twitter/follow/mounicarajput?logo=twitter&style=for-the-badge" alt="mounicarajput" /></a> </p>
 
 - 🔭 I’m currently working on **upscaling my skills around Technology and Business side.**
--  Currently working as a Senior Data engineer. 
+- 📝 Currently working as a Senior Data engineer. 
 - 📝 I regularly write articles on [https://medium.com/@Monikarajput.](https://medium.com/@Monikarajput.)
 - 📫 How to reach me **rajputmonika953@gmail.com**
 
