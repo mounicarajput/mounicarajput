@@ -8,7 +8,7 @@
 - 📝 Currently working as a Senior Data engineer. 
 - 📝 Check Out my articles [https://medium.com/@Monikarajput.](https://medium.com/@Monikarajput.)
 - 📫 How to reach me **rajputmonika953@gmail.com**
-- 📫 Portfolio is in process https://www.monikarajput.xyz/ until then enjoy my bento https://bento.me/mounicarajput
+- 📫 Portfolio is in process https://www.monikarajput.xyz/ until then enjoy my bento https://bento.me/mounicarajput :>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
