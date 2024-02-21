@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **upscaling my skills around the Technology and Business side.**
 - 📝 Currently working as a Senior Data engineer. 
-- 📝 Check Out my articles [https://medium.com/@Monikarajput.](https://medium.com/@Monikarajput.)
+- 📝 Check Out my articles [https://medium.com/@Monikarajput.](https://medium.com/@Monikarajput.) ..
 - 📫 How to reach me **rajputmonika953@gmail.com**
 - 📫 Portfolio is in process https://www.monikarajput.xyz/ until then enjoy my bento https://bento.me/mounicarajput  
 
